@@ -1,0 +1,467 @@
+{
+    "basshead_products" : [
+        {
+            "id": 1,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1blk_300x.png?v=1611038260",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1neon_540x.png?v=1611038260",
+            "product_name": "boAt BassHeads 225",
+            "stars": 5,
+            "reviews": 189,
+            "curr_price": 549,
+            "old_price": 999,
+            "price_saved": "45%",
+            "features": [
+                {
+                    "feature_1": "Polished metal that never goes out of style",
+                    "feature_2": "Incredible clarity with super extra bass",
+                    "feature_3": "Noise isolation mic to drown the world"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "greenyellow", "url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1neon_540x.png?v=1611038260"},
+                {"id": 2, "color": "red", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1red_80f49bec-c671-487c-a5b0-4717345639f9_540x.png?v=1611038260"},
+                {"id": 3, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1blk_540x.png?v=1611038260"}
+            ]
+        },
+        {
+            "id": 2,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-100-black_300x.png?v=1611038259",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-100-black_540x.png?v=1611038259",
+            "product_name": "boAt BassHeads 100",
+            "stars": 4,
+            "reviews": 197,
+            "curr_price": 399,
+            "old_price": 999,
+            "price_saved": "60%",
+            "features": [
+                {
+                    "feature_1": "Hawk-inspired design in vibrant colours",
+                    "feature_2": "Super extra bass",
+                    "feature_3": "Tangle free & perfect comfort for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-100-black_540x.png?v=1611038259"},
+                {"id": 2, "color": "red", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-100-red_540x.png?v=1611038259"},
+                {"id": 3, "color": "white", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-100-white_540x.png?v=1611038259"}
+            ]
+        },
+        {
+            "id": 3,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_d1187cc8-e513-4a02-993b-9fff1b576200_300x.png?v=1611038266",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_d1187cc8-e513-4a02-993b-9fff1b576200_540x.png?v=1611038266",
+            "product_name": "boAt BassHeads 242",
+            "stars": 4,
+            "reviews": 202,
+            "curr_price": 549,
+            "old_price": 1490,
+            "price_saved": "63%",
+            "features": [
+                {
+                    "feature_1": "Best in class earbuds for work outs",
+                    "feature_2": "Enjoy EDM, Bollywood or Rock with punchy bass",
+                    "feature_3": "Long lasting cable"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "limegreen", "url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/green_540x.png?v=1611038267"},
+                {"id": 2, "color": "red", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/red_540x.png?v=1611038267"},
+                {"id": 3, "color": "blue", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/blue_540x.png?v=1611038267"}
+            ]
+        },
+        {
+            "id": 4,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-152-white-7_300x.png?v=1611038256",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1522.5_300x.png?v=1612246918",
+            "product_name": "boAt BassHeads 152",
+            "stars": 5,
+            "reviews": 33,
+            "curr_price": 499,
+            "old_price": 1290,
+            "price_saved": "61%",
+            "features": [
+                {
+                    "feature_1": "Best in class earbuds for work outs",
+                    "feature_2": "Enjoy EDM, Bollywood or Rock with punchy bass",
+                    "feature_3": "Long lasting cable"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "blue", "url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_1_1_540x.jpg?v=1611038256"},
+                {"id": 2, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_1_70848b19-4345-4b74-8b7f-3310eb6c76f7_540x.jpg?v=1611038257"},
+                {"id": 3, "color": "red", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_1_2_540x.jpg?v=1611038257"}
+            ]
+        },
+        {
+            "id": 5,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103_300x.png?v=1611038264",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103blk_360x.png?v=1611038264",
+            "product_name": "boAt BassHeads 103",
+            "stars": 4,
+            "reviews": 265,
+            "curr_price": 399,
+            "old_price": 1290,
+            "price_saved": "69%",
+            "features": [
+                {
+                    "feature_1": "Get hooked on immersive audio",
+                    "feature_2": "Secure fit for smooth workouts",
+                    "feature_3": "Lightweight & tangle free"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "red", "url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103_540x.png?v=1611038264"},
+                {"id": 2, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103blk_540x.png?v=1611038264"},
+                {"id": 3, "color": "blue", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103b_540x.png?v=1611038264"}
+            ]
+        },
+        {
+            "id": 6,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/wht1_300x.png?v=1611038261",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-900-thumb-nail_360x.png?v=1611038261",
+            "product_name": "boAt BassHeads 100",
+            "stars": 3,
+            "reviews": 70,
+            "curr_price": 799,
+            "old_price": 2490,
+            "price_saved": "67%",
+            "features": [
+                {
+                    "feature_1": "Dynamic sound with extra bass",
+                    "feature_2": "Compact and foldable for portability",
+                    "feature_3": "Comfortable cups for a snug fit"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-900-thumb-nail_540x.png?v=1611038261"},
+                {"id": 2, "color": "white", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/wht1_540x.png?v=1611038261"}
+            ]
+        },
+        {
+            "id": 7,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1MI--thumb_300x.png?v=1601360886",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1MI--thumb_300x.png?v=1601360886",
+            "product_name": "BassHeads 100 MI Edition",
+            "stars": 2,
+            "reviews": 2,
+            "curr_price": 499,
+            "old_price": 1290,
+            "price_saved": "61%",
+            "features": [
+                {
+                    "feature_1": "Hawk-inspired design",
+                    "feature_2": "Tangle free & perfect comfort for all-day use",
+                    "feature_3": "Limited edition for MI fans"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "blue", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1MI--thumb_720x.png?v=1601360886"}
+            ]
+        },
+        {
+            "id": 8,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-102-blue_300x.png?v=1608367639",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-102-black_300x.png?v=1608367639",
+            "product_name": "BassHeads 102",
+            "stars": 5,
+            "reviews": 42,
+            "curr_price": 399,
+            "old_price": 1290,
+            "price_saved": "69%",
+            "features": [
+                {
+                    "feature_1": "Lightweight & perfect fit",
+                    "feature_2": "Thumping super extra bass",
+                    "feature_3": "Tangle-free and comfortable for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-102-black_540x.png?v=1608367639"}
+            ]
+        },
+        {
+            "id": 9,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_c14a9ba6-a46e-47e7-98aa-053185051326_300x.jpg?v=1604384731",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_c14a9ba6-a46e-47e7-98aa-053185051326_300x.jpg?v=1604384731",
+            "product_name": "Nirvana CE-1",
+            "stars": 3,
+            "reviews": 4,
+            "curr_price": 1099,
+            "old_price": 1990,
+            "price_saved": "20%",
+            "features": [
+                {
+                    "feature_1": "Lightweight & perfect fit",
+                    "feature_2": "Thumping super extra bass",
+                    "feature_3": "Tangle-free and comfortable for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "white", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_c14a9ba6-a46e-47e7-98aa-053185051326_720x.jpg?v=1604384731"}
+            ]
+        },
+        {
+            "id": 10,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-duo_300x.jpg?v=1604384732",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-duo_300x.jpg?v=1604384732",
+            "product_name": "Nirvana DUO",
+            "stars": 1,
+            "reviews": 1,
+            "curr_price": 1999,
+            "old_price": 2990,
+            "price_saved": "20%",
+            "features": [
+                {
+                    "feature_1": "Lightweight & perfect fit",
+                    "feature_2": "Thumping super extra bass",
+                    "feature_3": "Tangle-free and comfortable for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-duo_720x.jpg?v=1604384732"}
+            ]
+        },
+        {
+            "id": 11,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-deuce_300x.jpg?v=1604384733",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-deuce_300x.jpg?v=1604384733",
+            "product_name": "Nirvana Deuce",
+            "stars": 2,
+            "reviews": 4,
+            "curr_price": 1999,
+            "old_price": 3490,
+            "price_saved": "42%",
+            "features": [
+                {
+                    "feature_1": "Lightweight & perfect fit",
+                    "feature_2": "Thumping super extra bass",
+                    "feature_3": "Tangle-free and comfortable for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-deuce_720x.jpg?v=1604384733"}
+            ]
+        },
+        {
+            "id": 12,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-tres_300x.jpg?v=1604384733",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-tres_300x.jpg?v=1604384733",
+            "product_name": "Nirvana Tres",
+            "stars": 5,
+            "reviews": 3,
+            "curr_price": 2999,
+            "old_price": 3990,
+            "price_saved": "24%",
+            "features": [
+                {
+                    "feature_1": "Lightweight & perfect fit",
+                    "feature_2": "Thumping super extra bass",
+                    "feature_3": "Tangle-free and comfortable for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-nirvana-tres_720x.jpg?v=1604384733"}
+            ]
+        },
+        {
+            "id": 13,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-142-gunmetal_300x.jpg?v=1604384735",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-142-gunmetal_300x.jpg?v=1604384735",
+            "product_name": "BassHeads 142",
+            "stars": 5,
+            "reviews": 5,
+            "curr_price": 549,
+            "old_price": 1290,
+            "price_saved": "57%",
+            "features": [
+                {
+                    "feature_1": "Crystal clear audio with great bass for music",
+                    "feature_2": "Premium finish with strong cable",
+                    "feature_3": "In-line mic for seamless calling"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-142-gunmetal_540x.jpg?v=1604384735"}
+            ]
+        },
+        {
+            "id": 14,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-100-make-in-india-orange_300x.png?v=1612246917",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-100-make-in-india-white_300x.png?v=1612246917",
+            "product_name": "BassHeads 100 - Made in India",
+            "stars": 1,
+            "reviews": 3,
+            "curr_price": 399,
+            "old_price": 999,
+            "price_saved": "60%",
+            "features": [
+                {
+                    "feature_1": "Hawk-inspired design in vibrant colours",
+                    "feature_2": "Super extra bass",
+                    "feature_3": "Tangle free & perfect comfort for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "white", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-100-make-in-india-white_540x.png?v=1612246917"},
+                {"id": 2, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-100-make-in-india-orange_540x.png?v=1612246917"},
+                {"id": 3, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-100-make-in-india-green_540x.png?v=1612246917"}
+            ]
+        },
+        {
+            "id": 15,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1522.5_300x.png?v=1612246918",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-152-white-7_300x.png?v=1611038256",
+            "product_name": "BassHeads 152 - Made in India",
+            "stars": 5,
+            "reviews": 1,
+            "curr_price": 2999,
+            "old_price": 3990,
+            "price_saved": "60%",
+            "features": [
+                {
+                    "feature_1": "Hawk-inspired design in vibrant colours",
+                    "feature_2": "Super extra bass",
+                    "feature_3": "Tangle free & perfect comfort for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "orange", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1522.5_540x.png?v=1612246918"},
+                {"id": 2, "color": "white", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1521.5_540x.png?v=1612246918"},
+                {"id": 3, "color": "limegreen", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1523.5_540x.png?v=1612246918"}
+            ]
+        },
+        {
+            "id": 16,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-110-black_300x.png?v=1598336750",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-110-white_300x.png?v=1598336750",
+            "product_name": "BassHeads 110",
+            "stars": 2,
+            "reviews": 2,
+            "curr_price": 499,
+            "old_price": 999,
+            "price_saved": "60%",
+            "features": [
+                {
+                    "feature_1": "Hawk-inspired design in vibrant colours",
+                    "feature_2": "Super extra bass",
+                    "feature_3": "Tangle free & perfect comfort for all-day use"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-110-black_540x.png?v=1598336750"},
+                {"id": 2, "color": "white", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-110-black_540x.png?v=1598336750"},
+                {"id": 3, "color": "red", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-110-black_540x.png?v=1598336750"}
+            ]
+        },
+        {
+            "id": 17,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-122-thumb-nail_300x.png?v=1587705080",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-122-black_360x.png?v=1598336682",
+            "product_name": "BassHeads 122",
+            "stars": 4,
+            "reviews": 18,
+            "curr_price": 799,
+            "old_price": 1290,
+            "price_saved": "38%",
+            "features": [
+                {
+                    "feature_1": "Comfort with style",
+                    "feature_2": "Groove on boAt's signature HD sound",
+                    "feature_3": "In-line mic for seamless calling"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-122-thumb-nail_540x.png?v=1587705080"}
+                
+            ]
+        },
+        {
+            "id": 18,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-900-thumb-nail_72a1d4aa-30bc-49d7-9fb6-b28a52406736_300x.png?v=1576488656",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-910-black_360x.png?v=1598336751",
+            "product_name": "BassHeads 910",
+            "stars": 3,
+            "reviews": 9,
+            "curr_price": 899,
+            "old_price": 2490,
+            "price_saved": "63%",
+            "features": [
+                {
+                    "feature_1": "Dynamic sound with extra bass",
+                    "feature_2": "Compact and foldable for portability",
+                    "feature_3": "Comfortable cups for a snug fit"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-900-thumb-nail_72a1d4aa-30bc-49d7-9fb6-b28a52406736_540x.png?v=1576488656"}
+                
+            ]
+        },
+        {
+            "id": 19,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1grn_66029af4-f3d3-4a56-89ab-acf9de85d776_300x.png?v=1587450445",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1red_df69b84a-4f77-416f-b335-15446fe49b07_360x.png?v=1587450445",
+            "product_name": "BassHeads 228",
+            "stars": 5,
+            "reviews": 1,
+            "curr_price": 649,
+            "old_price": 1190,
+            "price_saved": "53%",
+            "features": [
+                {
+                    "feature_1": "Polished metal that never goes out of style",
+                    "feature_2": "Incredible clarity with super extra bass",
+                    "feature_3": "Noise isolation mic to drown the world"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "limegreen", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1grn_66029af4-f3d3-4a56-89ab-acf9de85d776_540x.png?v=1587450445"},
+                {"id": 2, "color": "red", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1grn_66029af4-f3d3-4a56-89ab-acf9de85d776_540x.png?v=1587450445"},
+                {"id": 3, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1grn_66029af4-f3d3-4a56-89ab-acf9de85d776_540x.png?v=1587450445"}
+            ]
+        },
+        {
+            "id": 20,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-132_300x.png?v=1588054991",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-bassheads-122-black_360x.png?v=1598336682",
+            "product_name": "BassHeads 132",
+            "stars": 2,
+            "reviews": 5,
+            "curr_price": 799,
+            "old_price": 1290,
+            "price_saved": "38%",
+            "features": [
+                {
+                    "feature_1": "Classy, comfortable, and convenient",
+                    "feature_2": "Enjoy premium HD sound",
+                    "feature_3": "In-line mic for seamless calling"
+                }
+            ],
+            "colors": [
+                
+                {"id": 1, "color": "black", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bassheads-132_540x.png?v=1588054991"}
+            ]
+        },
+        {
+            "id": 21,
+            "img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1grn_1d50c0b3-5b2f-4ba1-a6eb-c138495485a2_300x.png?v=1611038284",
+            "img_url_hover": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1grn_1d50c0b3-5b2f-4ba1-a6eb-c138495485a2_300x.png?v=1611038284",
+            "product_name": "boAt BassHeads 220",
+            "stars": 4,
+            "reviews": 22,
+            "curr_price": 499,
+            "old_price": 999,
+            "price_saved": "45%",
+            "features": [
+                {
+                    "feature_1": "Polished metal that never goes out of style",
+                    "feature_2": "Incredible clarity with super extra bass",
+                    "feature_3": "Noise isolation mic to drown the world"
+                }
+            ],
+            "colors": [
+                {"id": 1, "color": "limegreen", "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1neon_3105765c-e660-47c7-9deb-3482720df176_540x.png?v=1611038284"}
+            ]
+        }
+    ]
+}
